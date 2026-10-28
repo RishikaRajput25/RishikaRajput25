@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rishika Rajput 👋
 
-<!--
-**RishikaRajput25/RishikaRajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate specializing in Artificial Intelligence, interested in building practical AI-powered applications and backend systems.
 
-Here are some ideas to get you started:
+My primary focus is **Python, AI/ML, and Generative AI**, backed by a foundation in full-stack web development. I enjoy learning how AI systems work and applying that knowledge to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Languages:** Python, C++, JavaScript
+- **AI/ML:** Machine Learning, NLP, Generative AI, LLMs, RAG
+- **Backend:** FastAPI, REST APIs, Node.js, Express.js
+- **Databases:** SQL, MongoDB
+- **Frontend:** React.js
+
+### Current Focus
+
+- Deepening my understanding of Machine Learning and Generative AI.
+- Building AI applications using LLMs, RAG, and Python-based APIs.
+- Strengthening my problem-solving and software development skills.
+
+### Connect With Me
+
+- **LinkedIn:** [Rishika Rajput](https://www.linkedin.com/in/rishika-rajput-925aa32b8/)
+- **Email:** [rishikarajput.work@gmail.com](mailto:itsrishikarajput@gmail.com)
+
